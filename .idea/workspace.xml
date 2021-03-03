@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day_one/components-real-life" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -60,6 +61,70 @@
       <recent name="$PROJECT_DIR$/day_one/assets" />
     </key>
   </component>
+  <component name="RunManager" selected="Jest.Hire a software developer method.It should return false if no role has been given">
+    <configuration name="Hire a software developer method" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/day_two/jest-testing-examples" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/utilities.test.js" />
+      <test-names>
+        <test-name value="Hire a software developer method" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Hire a software developer method.It should return false if no role has been given" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/day_two/jest-testing-examples" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/utilities.test.js" />
+      <test-names>
+        <test-name value="Hire a software developer method" />
+        <test-name value="It should return false if no role has been given" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Hire a software developer method.It should return false if role is Software Engineer" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/day_two/jest-testing-examples" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/utilities.test.js" />
+      <test-names>
+        <test-name value="Hire a software developer method" />
+        <test-name value="It should return false if role is Software Engineer" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/day_two/jest-testing-examples" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/day_two/jest-testing-examples/src/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Hire a software developer method.It should return false if no role has been given" />
+        <item itemvalue="Jest.Hire a software developer method" />
+        <item itemvalue="Jest.Hire a software developer method.It should return false if role is Software Engineer" />
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614700851407</updated>
-      <workItem from="1614700852481" duration="7192000" />
+      <workItem from="1614700852481" duration="10784000" />
     </task>
     <servers />
   </component>
@@ -87,6 +152,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1018" y="458" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614787219099">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state x="1018" y="458" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614787219099" />
+    <state width="2539" height="550" key="GridCell.Tab.0.bottom" timestamp="1614790614908">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state width="2539" height="550" key="GridCell.Tab.0.bottom/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790614908" />
+    <state width="2539" height="550" key="GridCell.Tab.0.center" timestamp="1614790614907">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state width="2539" height="550" key="GridCell.Tab.0.center/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790614907" />
+    <state width="2539" height="550" key="GridCell.Tab.0.left" timestamp="1614790614907">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state width="2539" height="550" key="GridCell.Tab.0.left/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790614907" />
+    <state width="2539" height="550" key="GridCell.Tab.0.right" timestamp="1614790614907">
+      <screen x="0" y="23" width="2560" height="1362" />
+    </state>
+    <state width="2539" height="550" key="GridCell.Tab.0.right/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790614907" />
     <state x="770" y="323" width="670" height="676" key="search.everywhere.popup" timestamp="1614766887281">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
