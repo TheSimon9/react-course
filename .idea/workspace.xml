@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="" />
+    <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_one/assets/01_not_reusable_component.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/pure-react/assets/01_not_reusable_component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_one/assets/02_reusable_component.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/pure-react/assets/02_reusable_component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_one/assets/03_class_component_with_state.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/pure-react/assets/03_class_component_with_state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_one/assets/04_fun_component_with_state.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/pure-react/assets/04_fun_component_with_state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_one/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/pure-react/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +52,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_one/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_one/components-real-life" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_one/pure-react" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_one/components-real-life" />
       <recent name="$PROJECT_DIR$/day_one/assets" />
     </key>
   </component>
@@ -61,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614700851407</updated>
-      <workItem from="1614700852481" duration="2771000" />
+      <workItem from="1614700852481" duration="6595000" />
     </task>
     <servers />
   </component>
@@ -80,9 +92,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="237" key="search.everywhere.popup" timestamp="1614701071107">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state x="770" y="323" width="670" height="676" key="search.everywhere.popup" timestamp="1614766887281">
+      <screen x="0" y="23" width="2560" height="1362" />
     </state>
+    <state x="770" y="323" width="670" height="676" key="search.everywhere.popup/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614766887281" />
     <state x="505" y="237" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1614701071107" />
   </component>
 </project>
