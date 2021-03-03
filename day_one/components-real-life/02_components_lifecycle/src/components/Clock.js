@@ -7,17 +7,24 @@ class Clock extends React.Component {
     }
 
     componentDidMount() {
+        console.log("Sono stato inizializzato")
         this.timerID = setInterval(
             () => this.tick(),
             1000
         );
     }
+    
+    componentDidUpdate() {
+        console.log("Sono stato aggiornato")
+    }
 
     componentWillUnmount() {
+        console.log("Sono stato smontato")
         clearInterval(this.timerID);
     }
 
     tick() {
+        console.log("Sto per aggiornare lo state")
         this.setState({
             date: new Date()
         });
