@@ -21,27 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/components/SoftwareDeveloper.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/components/SoftwareDeveloper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/components/SoftwareDeveloper.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/components/SoftwareDeveloper.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/components/Weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/components/Weather.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/utilities/utilities.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/utilities.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/utilities/utilities.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/utilities/weather.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/src/utilities/weather.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/src/utilities/weather.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_two/jest-testing-examples/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day_three/jest-testing-examples/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614700851407</updated>
       <workItem from="1614700852481" duration="20587000" />
-      <workItem from="1614934287503" duration="844000" />
+      <workItem from="1614934287503" duration="1337000" />
     </task>
     <servers />
   </component>
