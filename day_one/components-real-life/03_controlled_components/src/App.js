@@ -5,6 +5,7 @@ import List from "./components/List";
 function App() {
     const [items, setItems] = useState([]);
     const [value, setValue] = useState("");
+    const [itemBeingEdited, setItemBeingEdited] = useState();
 
     const addItem = () => {
         setItems([...items, valueWithId(value)])
@@ -15,6 +16,7 @@ function App() {
         const newList = [...items];
         newList[index] = valueWithId(currentValue)
         setItems(newList)
+        setItemBeingEdited(undefined)
     }
 
     const valueWithId = (value) => {
@@ -31,7 +33,7 @@ function App() {
                 <input value={value} onChange={e => setValue(e.target.value)}/>
                 <button onClick={addItem}>Add item</button>
             </div>
-            <List items={items} editItem={editItem}/>
+            <List items={items} editItem={editItem} itemBeingEdited={itemBeingEdited} setItemBeingEdited={setItemBeingEdited}/>
         </div>
     );
 }

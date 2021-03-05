@@ -1,15 +1,10 @@
-import React, {useState, useEffect} from "react";
+import React, {useState} from "react";
 
 export default function Item(props) {
-    const [edit, setEdit] = useState(false)
     const [currentValue, setCurrentValue] = useState(props.value)
 
-    const editAction = () => setEdit(!edit)
+    const editAction = () => props.setItemBeingEdited(props.index)
     const onChange = e => setCurrentValue(e.target.value)
-
-    useEffect(() => {
-        setEdit(false)
-    }, [props.value]);
 
     const keyPressed = (e) => {
         if (e.code === "Enter") {
@@ -17,7 +12,7 @@ export default function Item(props) {
         }
     }
 
-    if (edit) return <input value={currentValue} onChange={onChange} onKeyPress={keyPressed}/>
+    if (props.inEdit) return <input value={currentValue} onChange={onChange} onKeyPress={keyPressed}/>
 
     return (
         <div className={"item"}>

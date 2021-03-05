@@ -8,7 +8,8 @@ export default function List(props) {
 
     return <div>
         {props.items.map((item, index) => <Item value={item.value} index={index} key={item.id}
-                                                onChange={props.editItem}/>)}
+                                                onChange={props.editItem} inEdit={props.itemBeingEdited === index}
+                                                setItemBeingEdited={props.setItemBeingEdited}/>)}
     </div>
 
 }
