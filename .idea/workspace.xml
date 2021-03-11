@@ -20,6 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/01_controlled_components/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +86,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_one/components-real-life" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_two" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_two" />
+      <recent name="$PROJECT_DIR$/day_one/components-real-life" />
+      <recent name="$PROJECT_DIR$/day_one/assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day_two/jest-testing-examples/src" />
       <recent name="$PROJECT_DIR$/day_two/jest-testing-examples/src/components" />
       <recent name="$PROJECT_DIR$/day_one/pure-react" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day_one/components-real-life" />
-      <recent name="$PROJECT_DIR$/day_one/assets" />
     </key>
   </component>
   <component name="RunManager" selected="Jest.Weather tests.should return reject if city is empty">
@@ -159,7 +198,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614700851407</updated>
       <workItem from="1614700852481" duration="20587000" />
-      <workItem from="1614934287503" duration="1337000" />
+      <workItem from="1614934287503" duration="1556000" />
+      <workItem from="1615456681422" duration="3746000" />
     </task>
     <servers />
   </component>
