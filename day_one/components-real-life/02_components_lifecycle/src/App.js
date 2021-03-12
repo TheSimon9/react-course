@@ -4,25 +4,25 @@ import Clock from './components/Clock';
 import ClockFunctional from "./components/ClockFunctional";
 
 function App() {
-    const [clockOn, setClockOn] = useState(true)
-    const toggleClockOn = () => {
-        setClockOn(!clockOn)
+    const [mostraOrologio, setMostraOrologio] = useState(true)
+    const aggiornaMostraOrologio = () => {
+        setMostraOrologio(!mostraOrologio)
     }
 
     const toggleButton = <button
         style={{padding: "10px"}}
-        onClick={toggleClockOn}>
-        {clockOn ?
-            "Nascondi"
-            : "Mostra"}
+        onClick={aggiornaMostraOrologio}>
+        {mostraOrologio ?
+            "Nascondi orologio"
+            : "Mostra orologio"}
     </button>;
 
     return (
         <div className="App">
             <header className="App-header">
                 {toggleButton}
-                {clockOn && <Clock/>}
-                <ClockFunctional/>
+                {mostraOrologio && <Clock/>}
+                <ClockFunctional />
             </header>
         </div>
     );
