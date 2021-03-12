@@ -22,7 +22,7 @@ function App() {
             <header className="App-header">
                 {toggleButton}
                 {mostraOrologio && <Clock/>}
-                <ClockFunctional />
+                {/* <ClockFunctional /> */}
             </header>
         </div>
     );

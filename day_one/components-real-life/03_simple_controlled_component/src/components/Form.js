@@ -1,33 +1,18 @@
 import * as React from "react";
 
-class Form extends React.Component {
-    constructor(props) {
-        super(props);
+function Form() {
+  const [name, setName] = React.useState("");
 
-        this.onChange = this.onChange.bind(this);
-
-        this.state = {
-            name: ""
-        };
-    }
-
-    onChange(e) {
-        this.setState({
-            name: e.target.value
-        });
-    }
-
-    render() {
-        return (
-            <div>
-                <label for='name-input'>Name: </label>
-                <input
-                    id='name-input'
-                    onChange={this.onChange}
-                    value={this.state.name} />
-            </div>
-        )
-    }
+  return (
+    <div>
+      <label htmlFor="name-input">Name: </label>
+      <input
+        id="name-input"
+        onChange={(e) => setName(e.target.value)}
+        value={name}
+      />
+    </div>
+  );
 }
 
 export default Form;
