@@ -8,18 +8,18 @@ function App() {
     const [itemBeingEdited, setItemBeingEdited] = useState();
 
     const addItem = () => {
-        setItems([...items, valueWithId(value)])
+        setItems([...items, itemWithId(value)])
         setValue("")
     }
 
     const editItem = (index, currentValue) => {
         const newList = [...items];
-        newList[index] = valueWithId(currentValue)
+        newList[index] = itemWithId(currentValue)
         setItems(newList)
         setItemBeingEdited(undefined)
     }
 
-    const valueWithId = (value) => {
+    const itemWithId = (value) => {
         return {
             value: value,
             id: Date.now()
