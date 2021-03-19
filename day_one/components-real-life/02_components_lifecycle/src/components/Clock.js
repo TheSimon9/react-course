@@ -13,7 +13,7 @@ class Clock extends React.Component {
             1000
         );
     }
-    
+
     componentDidUpdate() {
         console.log("Sono stato aggiornato")
     }
@@ -39,5 +39,5 @@ class Clock extends React.Component {
       );
     }
   }
-  
+
   export default Clock
