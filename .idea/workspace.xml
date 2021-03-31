@@ -20,51 +20,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90317c17-3b6a-41c6-b8ce-ce8156e26b78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/components/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/components/Item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/components/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/02_components_lifecycle/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/02_components_lifecycle/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/02_components_lifecycle/src/components/Clock.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/02_components_lifecycle/src/components/Clock.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/components/Item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/components/List.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/03_simple_controlled_component/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_one/components-real-life/03_controlled_components/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/day_one/components-real-life/04_controlled_components/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/01_controlled_components/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +85,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="js.last.introduce.type" value="CONST" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/day_two" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
@@ -98,32 +93,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day_two" />
-      <recent name="$PROJECT_DIR$/day_one/components-real-life" />
-      <recent name="$PROJECT_DIR$/day_one/assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day_two/02_controlled_components_with_redux/src" />
       <recent name="$PROJECT_DIR$/day_two/jest-testing-examples/src" />
       <recent name="$PROJECT_DIR$/day_two/jest-testing-examples/src/components" />
       <recent name="$PROJECT_DIR$/day_one/pure-react" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_two" />
+      <recent name="$PROJECT_DIR$/day_one/components-real-life" />
+      <recent name="$PROJECT_DIR$/day_one/assets" />
+    </key>
   </component>
-  <component name="RunManager" selected="Jest.Weather tests.should return reject if city is empty">
-    <configuration name="SoftwareDeveloper component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/day_two/jest-testing-examples/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$/day_two/jest-testing-examples" />
-      <envs />
-      <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/day_two/jest-testing-examples/src/components/SoftwareDeveloper.test.js" />
-      <test-names>
-        <test-name value="SoftwareDeveloper component" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="npm.start">
     <configuration name="Weather tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -179,20 +161,30 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/day_two/04_controlled_components/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Jest.SoftwareDeveloper component" />
       <item itemvalue="Jest.Weather tests" />
       <item itemvalue="Jest.Weather tests.should return reject if city is empty" />
       <item itemvalue="Jest.Weather tests.should use environment key if no fake key given" />
       <item itemvalue="Jest.Weather tests.should use the given key" />
+      <item itemvalue="npm.start" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="Jest.Weather tests.should return reject if city is empty" />
         <item itemvalue="Jest.Weather tests.should use environment key if no fake key given" />
         <item itemvalue="Jest.Weather tests" />
         <item itemvalue="Jest.Weather tests.should use the given key" />
-        <item itemvalue="Jest.SoftwareDeveloper component" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +200,7 @@
       <workItem from="1614934287503" duration="1556000" />
       <workItem from="1615456681422" duration="5020000" />
       <workItem from="1615539347856" duration="1251000" />
+      <workItem from="1617201020882" duration="5704000" />
     </task>
     <servers />
   </component>
@@ -239,26 +232,30 @@
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state x="1043" y="418" key="#xdebugger.evaluate/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614867092997" />
-    <state width="2539" height="480" key="GridCell.Tab.0.bottom" timestamp="1614877873311">
+    <state width="2539" height="345" key="GridCell.Tab.0.bottom" timestamp="1617201324192">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state width="2539" height="480" key="GridCell.Tab.0.bottom/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614877873311" />
     <state width="2539" height="550" key="GridCell.Tab.0.bottom/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790633281" />
-    <state width="2539" height="480" key="GridCell.Tab.0.center" timestamp="1614877873310">
+    <state width="2539" height="345" key="GridCell.Tab.0.bottom/-1680.866.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1617201324192" />
+    <state width="2539" height="345" key="GridCell.Tab.0.center" timestamp="1617201324192">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state width="2539" height="480" key="GridCell.Tab.0.center/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614877873310" />
     <state width="2539" height="550" key="GridCell.Tab.0.center/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790633279" />
-    <state width="2539" height="480" key="GridCell.Tab.0.left" timestamp="1614877873310">
+    <state width="2539" height="345" key="GridCell.Tab.0.center/-1680.866.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1617201324192" />
+    <state width="2539" height="345" key="GridCell.Tab.0.left" timestamp="1617201324191">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state width="2539" height="480" key="GridCell.Tab.0.left/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614877873310" />
     <state width="2539" height="550" key="GridCell.Tab.0.left/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790633278" />
-    <state width="2539" height="480" key="GridCell.Tab.0.right" timestamp="1614877873311">
+    <state width="2539" height="345" key="GridCell.Tab.0.left/-1680.866.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1617201324191" />
+    <state width="2539" height="345" key="GridCell.Tab.0.right" timestamp="1617201324192">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state width="2539" height="480" key="GridCell.Tab.0.right/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614877873311" />
     <state width="2539" height="550" key="GridCell.Tab.0.right/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790633280" />
+    <state width="2539" height="345" key="GridCell.Tab.0.right/-1680.866.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1617201324192" />
     <state width="2539" height="480" key="GridCell.Tab.1.bottom" timestamp="1614877873312">
       <screen x="0" y="23" width="2560" height="1362" />
     </state>
@@ -320,10 +317,11 @@
     </state>
     <state x="1074" y="443" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1680.753.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614848527207" />
     <state x="1074" y="444" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790714830" />
-    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1615460819921">
-      <screen x="0" y="23" width="1680" height="972" />
+    <state x="770" y="323" width="1021" height="948" key="search.everywhere.popup" timestamp="1617204716246">
+      <screen x="0" y="23" width="2560" height="1362" />
     </state>
     <state x="770" y="323" width="670" height="676" key="search.everywhere.popup/-1680.767.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1614790641653" />
+    <state x="770" y="323" width="1021" height="948" key="search.everywhere.popup/-1680.866.1680.1027/0.23.2560.1362@0.23.2560.1362" timestamp="1617204716246" />
     <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.972@0.23.1680.972" timestamp="1615460819921" />
   </component>
   <component name="XDebuggerManager">
