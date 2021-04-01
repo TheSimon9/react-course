@@ -4,13 +4,7 @@ import List from "./components/List";
 
 function App() {
   const [items, setItems] = useState([]);
-  const [value, setValue] = useState("");
   const [itemBeingEdited, setItemBeingEdited] = useState();
-
-  const addItem = () => {
-    setItems([...items, itemWithId(value)]);
-    setValue("");
-  };
 
   const editItem = (index, currentValue) => {
     const newList = [...items];
@@ -29,16 +23,7 @@ function App() {
   return (
     <div className="App">
       <h2>Controlled input example</h2>
-      <div className={"form"}>
-        <input value={value} onChange={(e) => setValue(e.target.value)} />
-        <button onClick={addItem}>Add item</button>
-      </div>
-      <List
-        items={items}
-        editItem={editItem}
-        itemBeingEdited={itemBeingEdited}
-        setItemBeingEdited={setItemBeingEdited}
-      />
+      <List/>
     </div>
   );
 }
