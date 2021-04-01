@@ -3,15 +3,17 @@ import ExampleUseEffectWithClass from "./classComponents/ExampleUseEffectWithCla
 import ExampleUseState from "./components/ExampleUseState";
 import ExampleUseEffect from "./components/ExampleUseEffect";
 import ExampleUseStateWithClass from "./classComponents/ExampleUseStateWithClass";
+import ExampleCustomHooks from "./components/ExampleCustomHooks";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <ExampleUseState />
+          {/*<ExampleUseState />*/}
           {/*<ExampleUseStateWithClass />*/}
           {/*<ExampleUseEffect />*/}
           {/*<ExampleUseEffectWithClass />*/}
+          <ExampleCustomHooks />
       </header>
     </div>
   );
