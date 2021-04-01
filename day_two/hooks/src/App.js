@@ -9,11 +9,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          {/*<ExampleUseState />*/}
+          <ExampleUseState />
           {/*<ExampleUseStateWithClass />*/}
           {/*<ExampleUseEffect />*/}
           {/*<ExampleUseEffectWithClass />*/}
-          <ExampleCustomHooks />
+          {/*<ExampleCustomHooks />*/}
       </header>
     </div>
   );
