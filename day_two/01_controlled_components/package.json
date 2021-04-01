@@ -1,6 +1,7 @@
 {
   "name": "03_controlled_components",
   "version": "0.1.0",
+  "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
