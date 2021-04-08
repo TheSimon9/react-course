@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  padding: 200px;
+}
+
+.form {
+  margin-bottom: 24px;
+}
+
+input {
+  margin-right: 16px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+}
+
+.item:hover .edit-action{
+  visibility: visible;
+}
+
+.item-value {
+  min-width: 200px;
+  cursor: default;
+}
+
+.edit-action {
+  visibility: hidden;
+  cursor: pointer;
+}

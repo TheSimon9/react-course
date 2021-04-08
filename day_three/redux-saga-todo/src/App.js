@@ -1,36 +1,29 @@
-import SoftwareDeveloper from "./components/SoftwareDeveloper";
-import Weather from "./components/Weather";
-import {getWeather} from "./utilities/weather";
-import {useEffect, useState} from "react";
-
+import React, { useState } from "react";
+import "./App.css";
+import List from "./components/List";
 
 function App() {
+  const [items, setItems] = useState([]);
+  const [itemBeingEdited, setItemBeingEdited] = useState();
 
-  const [weatherData, setWeatherData] = useState(null);
+  const editItem = (index, currentValue) => {
+    const newList = [...items];
+    newList[index] = itemWithId(currentValue);
+    setItems(newList);
+    setItemBeingEdited(undefined);
+  };
 
-  useEffect(() => {
-    getWeather("Bergamo")
-      .then((data) => {
-        console.log(data);
-        setWeatherData(data);
-      });
-  }, [])
-
+  const itemWithId = (value) => {
+    return {
+      value: value,
+      id: Date.now(),
+    };
+  };
 
   return (
     <div className="App">
-      <SoftwareDeveloper
-        name={"Christian"}
-        surname={"De Simone"}
-        role={"Software Engineer"}/>
-
-      {weatherData &&
-      <Weather isSun={weatherData.current.condition.text === "Sunny"}
-               icon={weatherData.current.condition.icon}
-               city={weatherData.location.name}
-               country={weatherData.location.region}
-               temperature={weatherData.current.temp_c}/>
-      }
+      <h2>Controlled input example</h2>
+      <List/>
     </div>
   );
 }
