@@ -23,3 +23,20 @@ export function getListSuccess(list){
     payload: list
   }
 }
+
+export const POST_ITEM_START = "POST_ITEM_START";
+
+export function postItemStart(newItem){
+  return {
+    type: POST_ITEM_START,
+    payload: newItem
+  }
+}
+
+export const POST_ITEM_SUCCESS = "POST_ITEM_SUCCESS";
+
+export function postItemSuccess(){
+  return {
+    type: POST_ITEM_SUCCESS,
+  }
+}

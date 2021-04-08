@@ -3,6 +3,7 @@ import reducer from "./reducers/rootReducer";
 import createSagaMiddleware from "redux-saga"
 import {composeWithDevTools} from "redux-devtools-extension";
 import {getListWatcher} from "../sagas/getListSaga";
+import {postItemWatcher} from "../sagas/postItemSaga";
 
 // create saga middleware
 const sagaMiddleware = createSagaMiddleware();
@@ -19,5 +20,6 @@ const store = createStore(
 
 // run watcher
 sagaMiddleware.run(getListWatcher);
+sagaMiddleware.run(postItemWatcher);
 
 export default store;

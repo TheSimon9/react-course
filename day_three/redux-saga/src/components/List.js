@@ -3,7 +3,7 @@ import Item from "./Item";
 
 //Let's add react in this component. It is going to be connected. Connected to the redux flow.
 import {connect} from "react-redux";
-import {addItem, getListStart} from "../store/actions/listActions";
+import {addItem, getListStart, postItemStart} from "../store/actions/listActions";
 
 
 function List(props) {
@@ -17,12 +17,21 @@ function List(props) {
     setValue("");
   };
 
+  const postItem = () => {
+    props.postItem({
+      value: value,
+      id: Date.now(),
+    });
+    setValue("");
+  };
+
   return (
     <>
       <div className={"form"}>
         <input value={value} onChange={(e) => setValue(e.target.value)}/>
         <button onClick={addItem}>Add item</button>
         <button onClick={props.getList}>Read list</button>
+        <button onClick={postItem}>Post item</button>
       </div>
       <div>
         {props.items != null ? props.items.map((item, index) => (
@@ -46,7 +55,8 @@ const mapStateToProps = (state) => ({
 
 const mapDispatchToProps = (dispatch) => ({
   addItem: (item) => dispatch(addItem(item)),
-  getList: () => dispatch(getListStart())
+  getList: () => dispatch(getListStart()),
+  postItem: (item) => dispatch(postItemStart(item)),
 })
 
 
