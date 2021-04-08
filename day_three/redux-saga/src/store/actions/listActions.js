@@ -6,3 +6,20 @@ export function addItem(newItem){
     payload: newItem
   }
 }
+
+export const GET_LIST_START = "GET_LIST_START";
+
+export function getListStart(){
+  return {
+    type: GET_LIST_START,
+  }
+}
+
+export const GET_LIST_SUCCESS = "GET_LIST_SUCCESS";
+
+export function getListSuccess(list){
+  return {
+    type: GET_LIST_SUCCESS,
+    payload: list
+  }
+}
